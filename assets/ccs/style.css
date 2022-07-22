@@ -1,0 +1,60 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #212529;
+    font-weight: 400;
+}
+img:hover{
+    opacity: 0.5;
+}
+
+.logo img{
+    width: 100px;
+    height: 30px;
+}
+.bar{
+    background-color: #28A745;
+}
+
+h5{
+    font-size: 20px;
+}
+
+.precio1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #707070
+}
+
+.precio2{
+    font-size: 20px;
+
+    font-weight: 400;
+}
+
+h4{
+    font-size: 16px;
+    color: #707070;
+    text-align: center;
+    
+
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px;
+    color: #ffff;
+    text-align: center;
+}
+footer img{
+    width: 100px;
+    height: 30px;
+}
+.footer p{
+    font-size: 16px;
+    color: #707070;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+.btn:hover{
+    opacity: 0.5;
+}
